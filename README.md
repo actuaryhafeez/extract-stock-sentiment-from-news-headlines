@@ -1,3 +1,2 @@
-# xxtract-stock-sentiment-from-news-headlines
- ## Sentiment analysis on financial news headlines from FINVIZ.com
+# Sentiment analysis on financial news headlines from FINVIZ.com
 In this project, we will be exploring the use of natural language processing (NLP) techniques to extract sentiment from news headlines about various companies, with the aim of predicting their stock prices. We will use Python to collect news headlines from the web, preprocess the text data, and apply various NLP techniques to extract sentiment. We will then use this data to train machine learning models to predict whether a particular news headline is likely to have a positive or negative impact on a company's stock price.
